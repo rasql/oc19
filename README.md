@@ -1,2 +1,11 @@
-# oc19
+# Cours d'option comlémentaire informatique
 Site personnel pour l'option complémentaire en informatique 2019-20
+
+## Sujets du cours
+
+- Les nombres **binaires**
+- Langages de programmation (ch 5)
+- Introduction à Python
+- liste **bold** *italic*
+
+[Livre du cours](https://www.dunod.com/sciences-techniques/informatique)
